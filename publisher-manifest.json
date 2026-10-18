@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "92472bf9386cd30cfde8497e",
+  "owner": "wfcywcta",
+  "repo": "page-2faf0b5d80222a3cb850b427",
+  "title": "Nova",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2faf0b5d80222a3cb850b427",
+      "a": "Nova",
+      "b": "",
+      "entity": "Nova",
+      "brand": "Nova",
+      "separator": "",
+      "path": "index.html",
+      "hash": "2ecd3fed026f596deb0e7ebb9d37bd5afcaa3b49c49e4ae5812d38ff7d51e60a",
+      "content": {
+        "keyword1": "Nova",
+        "keyword2": "",
+        "primary_entity": "Nova",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "Nova 以专栏作者式的深度视角，为您剖析现代数字生活中的连接美学与效率方案，提供清晰直观的流量套餐与配置指引。",
+          "AI_DESCRIPTION": "Nova 以专栏作者式的深度视角，为您剖析现代数字生活中的连接美学与效率方案，提供清晰直观的流量套餐与配置指引。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--bg: #f4f3f8;--panel-bg: #ffffff;--text: #1e1b2e;--text-muted: #6b6680;--accent: #7c3aed;--accent-light: #f5f3ff;--border: #e2def2}\n\n* {box-sizing: border-box;margin: 0;padding: 0}\n\nbody {background-color: var(--bg);color: var(--text);font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif;line-height: 1.6;padding-bottom: 80px}\n\nmain {max-width: 900px;margin: 0 auto;padding: 40px 20px}\n\nheader {margin-bottom: 60px}\n\n.brand-title {font-size: 2.5rem;font-weight: 800;color: var(--accent);letter-spacing: -0.05em;margin-bottom: 8px}\n\n.brand-subtitle {font-size: 1.1rem;color: var(--text-muted)}\n\n.hero-dashboard {display: grid;grid-template-columns: repeat(3, 1fr);gap: 16px;margin-bottom: 60px}\n\n.dashboard-card {background: var(--panel-bg);border: 1px solid var(--border);padding: 24px;border-radius: 8px;border-left: 4px solid var(--accent)}\n\n.dashboard-card h3 {font-size: 0.85rem;text-transform: uppercase;color: var(--text-muted);letter-spacing: 0.05em;margin-bottom: 8px}\n\n.dashboard-card .value {font-size: 1.8rem;font-weight: 700;color: var(--text)}\n\n.section-title {font-size: 1.5rem;font-weight: 700;margin-bottom: 24px;letter-spacing: -0.02em}\n\n.article-section {background: var(--panel-bg);border: 1px solid var(--border);padding: 40px;border-radius: 12px;margin-bottom: 60px}\n\n.article-section p {margin-bottom: 20px;color: var(--text)}\n\n.article-section p:last-child {margin-bottom: 0}\n\n.plans-container {display: flex;flex-direction: column;gap: 24px;margin-bottom: 60px}\n\n.plan-card {background: var(--panel-bg);border: 1px solid var(--border);border-left: 6px solid var(--accent);border-radius: 8px;padding: 32px;display: flex;flex-direction: column;gap: 16px}\n\n.plan-header {display: flex;justify-content: space-between;align-items: baseline}\n\n.plan-name {font-size: 1.4rem;font-weight: 700}\n\n.plan-price {font-size: 1.5rem;font-weight: 700;color: var(--accent)}\n\n.plan-annual {font-size: 0.9rem;color: var(--text-muted)}\n\n.plan-features {list-style: none;display: flex;flex-direction: column;gap: 8px;border-top: 1px solid var(--border);padding-top: 16px}\n\n.plan-features li {font-size: 0.95rem;color: var(--text-muted);position: relative;padding-left: 20px}\n\n.plan-features li::before {content: \"—\";position: absolute;left: 0;color: var(--accent)}\n\n.faq-container {display: flex;flex-direction: column;gap: 12px;margin-bottom: 60px}\n\n.faq-item {background: var(--panel-bg);border: 1px solid var(--border);border-left: 4px solid var(--accent);border-radius: 6px;overflow: hidden}\n\n.faq-item summary {padding: 20px;font-weight: 600;cursor: pointer;outline: none;user-select: none}\n\n.faq-item summary::-webkit-details-marker {display: none}\n\n.faq-answer {padding: 0 20px 20px 20px;color: var(--text-muted);font-size: 0.95rem;border-top: 1px solid var(--border);padding-top: 16px;margin-top: -4px}\n\n.bottom-nav {position: fixed;bottom: 0;left: 0;right: 0;background: rgba(255, 255, 255, 0.9);backdrop-filter: blur(8px);border-top: 1px solid var(--border);padding: 12px 20px;display: flex;justify-content: center;gap: 32px;z-index: 100}\n\n.bottom-nav a {color: var(--text-muted);text-decoration: none;font-size: 0.9rem;font-weight: 500}\n\n.bottom-nav a:hover {color: var(--accent)}\n\n@media (max-width: 768px) {\n  .hero-dashboard {grid-template-columns: 1fr}\n  .article-section {padding: 24px}\n  .plan-card {padding: 20px}\n}\n</style><main>\n  <header>\n    <h1 class=\"brand-title\">Nova</h1>\n    <p class=\"brand-subtitle\">数字连接的深度观察与效率构想</p>\n  </header>\n\n  <section class=\"hero-dashboard\">\n    <div class=\"dashboard-card\">\n      <h3>架构视点</h3>\n      <div class=\"value\">解耦与精简</div>\n    </div>\n    <div class=\"dashboard-card\">\n      <h3>流量能效</h3>\n      <div class=\"value\">高密度专线</div>\n    </div>\n    <div class=\"dashboard-card\">\n      <h3>协议响应</h3>\n      <div class=\"value\">毫秒级同步</div>\n    </div>\n  </section>\n\n  <section class=\"article-section\">\n    <h2 class=\"section-title\">专栏手记：重构我们的数字触点</h2>\n    <p>在信息密度日益膨胀的今天，连接的质量往往决定了思维的带宽。我们常常花费过多精力去处理高延迟、不稳定的通信链路，却忽视了底层架构对于数字体验的决定性影响。</p>\n    <p>Nova 的诞生，并非为了提供某种喧嚣的狂欢，而是源于对安静、稳健、长效连接的追求。我们剥离了所有冗余的修饰，将复杂的路由策略转化为一组直观的数字方案。无论您是在进行跨越地域的学术调研、高精度的多端协同，还是纯粹的流媒体内容体验，Nova 都能为您提供稳定且克制的后台支持。</p>\n    <p>这是一份写给独立创作者与技术探索者的说明书。在这里，速度是基础，而秩序与安全才是贯穿始终的隐形美学。</p>\n  </section>\n\n  <section>\n    <h2 class=\"section-title\">精选流量方案</h2>\n    <div class=\"plans-container\">\n      <div class=\"plan-card\">\n        <div class=\"plan-header\">\n          <div>\n            <div class=\"plan-name\">基础版</div>\n            <div class=\"plan-annual\">按年付仅需 ¥150/年</div>\n          </div>\n          <div class=\"plan-price\">¥15/月</div>\n        </div>\n        <ul class=\"plan-features\">\n          <li>每月 100GB 极速流量</li>\n          <li>支持 3 台设备同时在线</li>\n          <li>解锁基础流媒体</li>\n          <li>普通线路节点池</li>\n        </ul>\n      </div>\n\n      <div class=\"plan-card\">\n        <div class=\"plan-header\">\n          <div>\n            <div class=\"plan-name\">旗舰版 <span>推荐</span></div>\n            <div class=\"plan-annual\">按年付仅需 ¥350/年</div>\n          </div>\n          <div class=\"plan-price\">¥35/月</div>\n        </div>\n        <ul class=\"plan-features\">\n          <li>每月 300GB 极速流量</li>\n          <li>支持 5 台设备同时在线</li>\n          <li>全节点原生流媒体解锁</li>\n          <li>IPLC 专线游戏加速优化</li>\n          <li>7x24 优先工单支持</li>\n        </ul>\n      </div>\n\n      <div class=\"plan-card\">\n        <div class=\"plan-header\">\n          <div>\n            <div class=\"plan-name\">团队版</div>\n            <div class=\"plan-annual\">按年付仅需 ¥850/年</div>\n          </div>\n          <div class=\"plan-price\">¥85/月</div>\n        </div>\n        <ul class=\"plan-features\">\n          <li>每月 1000GB 极速流量</li>\n          <li>支持 20 台设备同时在线</li>\n          <li>VIP 专属高带宽节点</li>\n          <li>支持企业定制路由</li>\n          <li>专属客户经理服务</li>\n        </ul>\n      </div>\n    </div>\n  </section>\n\n  <section>\n    <h2 class=\"section-title\">常见问题解答</h2>\n    <div class=\"faq-container\">\n      <details class=\"faq-item\">\n        <summary>Nova 的服务适合哪些场景使用？</summary>\n        <div class=\"faq-answer\">\n          Nova 主要面向对网络连接稳定性、数据传输效率有较高要求的个人创作者、远程办公人员以及技术极客。无论是日常的资料检索、跨国学术访问还是多端协作，均能提供优异的响应速度。\n        </div>\n      </details>\n\n      <details class=\"faq-item\">\n        <summary>如何选择最适合我的套餐？</summary>\n        <div class=\"faq-answer\">\n          如果您仅需处理常规文本和日常网页浏览，基础版即可满足；若您对高清流媒体播放、游戏低延迟有较高诉求，旗舰版配置了 IPLC 专线，是综合性价比最高之选；团队版则更适合多人共享或高强度企业级需求。\n        </div>\n      </details>\n\n      <details class=\"faq-item\">\n        <summary>各套餐的流量是否支持按月重置？</summary>\n        <div class=\"faq-answer\">\n          是的。所有有效订阅的套餐流量均会在每月的对应账单日自动重置，恢复至当前套餐的标准额度，未用完的流量不累计至下个月。\n        </div>\n      </details>\n\n      <details class=\"faq-item\">\n        <summary>遇到连接或配置问题如何寻求帮助？</summary>\n        <div class=\"faq-answer\">\n          您可以随时通过用户后台提交工单。旗舰版与团队版用户享有优先响应权，技术支持团队将协助您排查并优化本地连接环境。\n        </div>\n      </details>\n    </div>\n  </section>\n</main>\n\n<nav class=\"bottom-nav\">\n  <a href=\"#\">手记总览</a>\n  <a href=\"#\">流量方案</a>\n  <a href=\"#\">常见问题</a>\n  <a href=\"#\">控制台登录</a>\n</nav>",
+          "hash": "45ec8bf86711619647f262a408e83dcebe047bf918f996d85a0992c8a2834e69",
+          "seo": {
+            "title": "Nova - 现代数字连接与流量方案专栏",
+            "keywords": "Nova, 数字连接, 流量方案, 专栏, 网络配置",
+            "description": "Nova 以专栏作者式的深度视角，为您剖析现代数字生活中的连接美学与效率方案，提供清晰直观的流量套餐与配置指引。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "1923",
+            "hero": "4 仪表盘式数据块拼贴",
+            "palette": "4 浅灰配电光紫",
+            "nav": "4 底部固定式文字导航",
+            "card": "4 左侧色条标记",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "4 专栏作者式叙述",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xghlg.cn",
+    "host": "p-cccd9bf654.xghlg.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "705e8819bceac2a9a87773b9b8354af4053f2ea3ee92c26beca875e0bd676a41",
+    "sitemap.xml": "ced11251c4436cf1da341e5987626930d48c707d4b3258540c95f15f76dff0ea",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1239e8e50ddd97442044349f334fe086cc7f01b544124670f2718fc4cab38994",
+    "robots.txt": "8daa51bad4978683b83a3f9e6e1cecdf55fee30210d9caaa5b1dd0f874c239f4",
+    "5e34ad838736234e2e6546648ce9ba9b.txt": "f3e71d0e56bcd96f2e381f1eae6fb0c96f7af5e30dcc7c86d19e7124c7ce8d6a"
+  },
+  "revision": "6f1af3b77b0127630096e876941fdc46de3fe42f83f9b860571d907069c56868"
+}
